@@ -1,8 +1,14 @@
 image_server: https://api.elaina.cat/random/pc/
+
 statics: "/" # 静态文件根目录，可用于 CDN 加速
 assets: "assets" # 图片资源存放目录
 css: "css" # css 存放目录 (不建议改动)
 js: "js" # js 存放目录 (不建议改动)
+
+experiments:
+  mobileWidth: 820px # 移动版和桌面版导航栏最短切换长度
+  copyrightLength: 50 # 自定义复制时显示copyright的长度
+  antiFakeWebsite: false # 防止恶意网站伪装
 
 modules:
   player: false # 启用音乐播放器
