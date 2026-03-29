@@ -35,6 +35,7 @@ menu:
     default: /# || zuopin 
     music: https://music.lzwxx.top || music 
     openlist: https://openlist.lzwxx.top || cloud 
+    reference: https://reference.lzwxx.top || preview
   关于: /about/ || user-circle 
   友链: /friends/ || link 
 
